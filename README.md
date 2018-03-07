@@ -1,6 +1,6 @@
 # yt-first-bot
 This project is not affiliated with Google or Alphabet inc.
-This project may be taken down immeditely upon formal request.
+This project may also be taken down immeditely upon formal request.
 
 # pre-requisites
 Find installations by googling the imports on main.py
