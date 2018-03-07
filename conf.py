@@ -1,5 +1,3 @@
-import json
-
 comment = "Hello."
 playlists = [
     {
