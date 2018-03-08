@@ -1,7 +1,9 @@
 comment = "Hello."
+update_freq = 5
+
 playlists = [
     {
-        'key' : 'UUHVvQgQd4JrIS_FOFbHOK0g',
+        'key' : 'UUUKMpHTtAG8bJY7bMSatNJg',
         'last' : ''
     }, {
         'key' : 'UUXuqSBlHAE6Xw-yeJA0Tunw',

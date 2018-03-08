@@ -1,6 +1,6 @@
 from __future__ import print_function
 
-from conf import (playlists, comment)
+from conf import (playlists, comment, update_freq)
 print(playlists)
 
 import os
@@ -138,7 +138,7 @@ for playlist in playlists:
     playlist['last'] = video_key
 
     log ("playlist['last']: " + video_key)
-time.sleep(10)
+time.sleep(update_freq)
 log ("")
 
 while (True):
@@ -162,5 +162,5 @@ while (True):
             playlist['last'] = video_key
         
         log ("videoId: " + video_key)
-    time.sleep(10)
+    time.sleep(update_freq)
     log ("")
