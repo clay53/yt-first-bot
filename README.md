@@ -4,7 +4,7 @@ This project may also be taken down immeditely upon formal request.
 
 # pre-requisites
 Find installations by googling the imports on main.py
-Get client_secret.json from https://console.developers.com/
+Get client_secret.json from https://console.developers.google.com/
 
 # conf ex
 ```
