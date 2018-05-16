@@ -1,3 +1,4 @@
 client_secret.json
+conf.py
 logs/*
 *.pyc
